@@ -1,1 +1,1 @@
-# programming2semester
+# paradogms in ITMO
